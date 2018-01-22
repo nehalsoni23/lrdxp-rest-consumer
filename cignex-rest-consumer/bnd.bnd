@@ -1,0 +1,4 @@
+Bundle-Name: cignex-rest-consumer
+Bundle-SymbolicName: com.cignex.configurable.restconsumer
+Bundle-Version: 1.0.0
+Export-Package: com.cignex.configurable.restconsumer.constants
